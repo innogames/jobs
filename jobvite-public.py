@@ -15,7 +15,7 @@ CUSTOM_SUB_CATEGORIES_CAT_ONLY = ['Career Starters']
 JOBVITE_SOURCE_TYPE = 'Job+Board'
 JOBVITE_SOURCE_DETAIL = 'github_jobs_repo'
 HOMEPAGE_BASE = 'https://www.innogames.com/career/detail/job'
-
+JOBVITE_DIRECT = 'https://jobs.jobvite.com/careers/innogames/job/'
 
 def get_listings():
     r = requests.get(JOBVITE_XML)
@@ -56,10 +56,11 @@ def get_homepage_url(job):
 def render_job(job):
     rendered = '<h1>{}</h1>\n'.format(job['title'])
     rendered += job['description']
-    rendered += '\n\n<h2><a href="{}&__jvst={}&__jvsd={}">Apply Now</a> ' \
+    rendered += '\n\n<h2><a href="{}/{}/apply?__jvst={}&__jvsd={}">Apply Now</a> ' \
         'directly or get more <a href="{}?s={}">Information</a> about ' \
         'InnoGames</h2>'.format(
-                    job['apply-url'],
+                    JOBVITE_DIRECT,
+                    job['id'],
                     JOBVITE_SOURCE_TYPE,
                     JOBVITE_SOURCE_DETAIL,
                     get_homepage_url(job),
