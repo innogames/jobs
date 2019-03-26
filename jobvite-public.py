@@ -68,7 +68,7 @@ def render_job_markdown(job):
     r = re.compile(r"^__ \s+", re.MULTILINE)
     markdown = r.sub('__', markdown.replace('____', ''))
     r = re.compile(r"\s+\n\s*__\n", re.MULTILINE)
-    markdown = r.sub('__\n', markdown)
+    markdown = r.sub('__\n', markdown.replace('&nbsp;__','__'))
 
 
     return(markdown)
