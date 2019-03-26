@@ -45,7 +45,7 @@ __Why join us?__
 
 &nbsp;
 
-Would you like to become part of a dynamic team and work as a __Senior&nbsp;Unity Developer&nbsp;__with us? Then we look forward to receiving your application as well as your salary expectations and earliest possible starting date through our online application form at innogames.com. Your contact person for this job offer is<span>&nbsp;</span>__Maximilian Kaeding__.
+Would you like to become part of a dynamic team and work as a __Senior&nbsp;Unity Developer__with us? Then we look forward to receiving your application as well as your salary expectations and earliest possible starting date through our online application form at innogames.com. Your contact person for this job offer is<span>&nbsp;</span>__Maximilian Kaeding__.
 
 InnoGames, based in Hamburg, is one of the leading developers and publishers of online games with more than 200 million registered players around the world. Currently, more than 400 people from 30 nations are working in the Hamburg-based headquarters. We have been characterized by dynamic growth ever since the company was founded in 2007. In order to further expand our success and to realize new projects, we are constantly looking for young talents, experienced professionals, and creative thinkers.
 

@@ -33,7 +33,7 @@ __Warum InnoGames:__
 *   Wir übernehmen den Großteil der Kosten für Deine HVV-ProfiCard
 
   
-Dich reizt die Herausforderung? Du möchtest Teil eines dynamischen Teams werden und bei uns mit Deiner Ausbildung richtig durchstarten? Dann freuen wir uns auf Deine Bewerbung (Anschreiben, Lebenslauf, Zeugnisse und Code-Beispiele)&nbsp;über unser Online-Bewerbungsformular auf innogames.com. Deine Ansprechpartnerin ist&nbsp;__Isabella Dettlaff__.  
+Dich reizt die Herausforderung? Du möchtest Teil eines dynamischen Teams werden und bei uns mit Deiner Ausbildung richtig durchstarten? Dann freuen wir uns auf Deine Bewerbung (Anschreiben, Lebenslauf, Zeugnisse und Code-Beispiele)&nbsp;über unser Online-Bewerbungsformular auf innogames.com. Deine Ansprechpartnerin ist__Isabella Dettlaff__.  
   
 Mit über 200 Millionen registrierten Spielern rund um den Globus ist die InnoGames GmbH in Hamburg einer der führenden Entwickler und Betreiber von Onlinespielen. Aktuell arbeiten mehr als 400 Mitarbeiter aus 30 Ländern bei uns. Wir zeichnen uns seit der Unternehmensgründung 2007 durch ein dynamisches Wachstum aus. Um unseren Erfolg weiter auszubauen und zur Verwirklichung neuer Projekte sind wir stets auf der Suche nach jungen Talenten, erfahrenen Professionals und kreativen Köpfen.
 

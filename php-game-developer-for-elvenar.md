@@ -1,6 +1,6 @@
 # PHP Game Developer for Elvenar
 
-Our agile cross-functional team is searching for a&nbsp;__Software Developer&nbsp;__who will implement features, improve workflow tools, optimize the performance and most importantly, share the passion for our games! Bring your knowledge of software engineering principles and pragmatic way of finding solutions to provide the best user experience for our players, working&nbsp;within the PHP codebase.&nbsp;  
+Our agile cross-functional team is searching for a__Software Developer__who will implement features, improve workflow tools, optimize the performance and most importantly, share the passion for our games! Bring your knowledge of software engineering principles and pragmatic way of finding solutions to provide the best user experience for our players, working&nbsp;within the PHP codebase.&nbsp;  
   
 
 __Your mission:__
