@@ -2,14 +2,14 @@
 
 You know your way around Linux servers, already dived into the Hadoop Ecosystems and are looking for an opportunity to specialize in these technologies? Our Big Data environment with state-of-the-art technologies will be the perfect place to support your development. You will be part of our System Administration department and work very closely with our data engineers and scientist&nbsp;to&nbsp;design and implement architecture changes for our data infrastructure.&nbsp;Once you are familiar with our infrastructure&nbsp;you will take over the responsibility to operate our Analytics systems, design and implement architecture changes and provide hands on support for our data engineers and data scientists.  
   
-__Your mission:&nbsp;__
+__Your mission:__
 
 *   Work together with our data engineers and data scientists
 *   Discuss and implement new technologies
 *   Maintain the systems, update, monitor, and debug them
 *   Automate and improve the environment
 
-__Our technologies:&nbsp;__
+__Our technologies:__
 
 *   The Hadoop ecosystem (HDFS, Hive, Impala, Spark)
 *   Stream processing (Kafka, Flink)
@@ -18,7 +18,7 @@ __Our technologies:&nbsp;__
 *   Debian and Puppet for configuration management
 *   Supported by Nagios, Graphite, Grafana and [Serveradmin](https://github.com/innogames/serveradmin)
 
-__Your profile:&nbsp;__
+__Your profile:__
 
 *   Some years professional experience administering \*nix systems
 *   Real world experience with tools from the Hadoop ecosystem

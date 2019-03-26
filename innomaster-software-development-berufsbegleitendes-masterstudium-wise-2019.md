@@ -4,7 +4,7 @@ Möchtest du dein Masterstudium spannend und praxisnah gestalten? Möchtest du n
   
 Im Rahmen des __InnoMaster Software Development__ Programms studierst du in der Regel 6 Semester berufsbegleitend an einer&nbsp;Hochschule, die ein akkreditiertes berufsbegleitendes Masterstudium anbietet und die in Hamburg oder Umgebung angesiedelt ist und wir übernehmen die Kosten dafür! Ausgewählte Studiengänge könnten zum Beispiel IT Security, Computer Science, IT Engineering oder Medieninformatik sein. Parallel arbeitest du in einer Fachabteilung bei der InnoGames GmbH in Hamburg, sammelst zusätzlich zum Studium wertvolle praktische Berufserfahrung in verschiedenen Bereichen des Software Developments und kannst dein theoretisches Wissen direkt in die Praxis umsetzen! Neben verantwortungsvollen Aufgaben sowie einer festen angemessenen Vergütung bieten wir dir die Teilnahme an Trainings (aus dem Fachbereich, Sprachen, Soft Skills) und Unterstützung bei deiner weiteren Karriereplanung.  
    
- Der __InnoMaster Software Development&nbsp;__ist auf ca. drei Jahre ausgelegt mit einer wöchentlichen Arbeitszeit von 30 – 40 Wochenstunden.  
+ Der __InnoMaster Software Development__ist auf ca. drei Jahre ausgelegt mit einer wöchentlichen Arbeitszeit von 30 – 40 Wochenstunden.  
    
  Für weitere Fragen bezüglich des Studiums stehen wir dir gerne zur Verfügung.  
    
@@ -34,6 +34,6 @@ __Das bieten wir:__
 *   Kreativpausen gibt es auf der Dachterrasse, an der Baristabar, am Kicker, an den Spieleautomaten, an der Konsole, im Ruheraum, beim Eis…
 *   In unserem Fitnessstudio kannst du dich austoben und dich danach an unseren kostenlosen Getränken und frischem Obst bedienen
 
-Dich reizt die Herausforderung? Du möchtest Teil eines dynamischen Teams werden und bei im Rahmen des InnoMasters richtig durchstarten? Dann freuen wir uns auf Deine Bewerbung (Anschreiben, Lebenslauf, Zeugnisse und Code-Beispiele) unter Angabe deiner präferierten Hochschule&nbsp;über unser Online-Bewerbungsformular auf innogames.com. Deine Ansprechpartnerin ist&nbsp;__Isabella Dettlaff__.&nbsp;
+Dich reizt die Herausforderung? Du möchtest Teil eines dynamischen Teams werden und bei im Rahmen des InnoMasters richtig durchstarten? Dann freuen wir uns auf Deine Bewerbung (Anschreiben, Lebenslauf, Zeugnisse und Code-Beispiele) unter Angabe deiner präferierten Hochschule&nbsp;über unser Online-Bewerbungsformular auf innogames.com. Deine Ansprechpartnerin ist__Isabella Dettlaff__.&nbsp;
 
 ## [Apply Now](http://app.jobvite.com/CompanyJobs/Careers.aspx?c=qyy9VfwU&j=oCsD8fwz&k=Apply&__jvst=Job+Board&i__jvsd=github_jobs_repo) directly or get more [Information](https://www.innogames.com/career/detail/job/innomaster-software-development-berufsbegleitendes-masterstudium-wise-2019/?s=github_jobs_repo) about InnoGames

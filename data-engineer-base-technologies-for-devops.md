@@ -6,7 +6,7 @@ You will be part of our System Administration department and work very closely w
   
 With our data architecture we are processing more than 1,000,000,000 game interaction events day by day. Our Hadoop cluster works on 1,500 CPUs, 5 TB Memory, 1 PB of disk space.
 
-__Your profile:&nbsp;__
+__Your profile:__
 
 *   Some years professional experience as a Data Analyst, Scientist or Engineer
 *   You understand distributed systems (e.g. CAP, Kappa, Lambda) and the interactions happening in the background (e.g. rebalancing)
@@ -16,7 +16,7 @@ __Your profile:&nbsp;__
 *   You know your way around a Linux command line
 *   Knowledge in server hardware and ideally a configuration management tool ( like Puppet, Chef or Ansible) would be a huge plus
 
-__Your mission:&nbsp;__
+__Your mission:__
 
 *   Work together with our Data Engineers and Data Scientists
 *   Discuss and implement new technologies

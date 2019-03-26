@@ -26,7 +26,7 @@ __Your profile:__&nbsp;
 
   
 
-__Why join us?&nbsp;__
+__Why join us?__
 
 *   Shape the success story of InnoGames with a great team of driven experts in an international culture
 *   Competitive compensation and an atmosphere to empower creative thinking and strong results
