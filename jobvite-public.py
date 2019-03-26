@@ -2,8 +2,6 @@
 
 import requests
 import xmltodict
-import html2markdown
-import re
 
 COMPANY_ID = 'qyy9VfwU'
 JOBVITE_XML = 'https://app.jobvite.com/CompanyJobs/Xml.aspx?c={}&cf=e'.format(
@@ -55,23 +53,18 @@ def get_homepage_url(job):
     return(url)
 
 
-def render_job_markdown(job):
-    markdown = '# {}\n\n'.format(job['title'])
-    markdown += html2markdown.convert(job['description'])
-    markdown += '\n\n## [Apply Now]({}&__jvst={}&i__jvsd={})'.format(
-            job['apply-url'], JOBVITE_SOURCE_TYPE, JOBVITE_SOURCE_DETAIL)
-    markdown += ' directly or get more [Information]'
-    markdown += '({}?s={}) about InnoGames'.format(
-            get_homepage_url(job), JOBVITE_SOURCE_DETAIL)
-
-    # manually clean some wierdness
-    r = re.compile(r"^__ \s+", re.MULTILINE)
-    markdown = r.sub('__', markdown.replace('____', ''))
-    r = re.compile(r"\s+\n\s*__\n", re.MULTILINE)
-    markdown = r.sub('__\n', markdown.replace('&nbsp;__','__'))
-
-
-    return(markdown)
+def render_job(job):
+    rendered = '<h1>{}</h1>\n'.format(job['title'])
+    rendered += job['description']
+    rendered += '\n\n<h2><a href="{}&__jvst={}&__jvsd={}">Apply Now</a> ' \
+        'directly or get more <a href="{}?s={}">Information</a> about ' \
+        'InnoGames</h2>'.format(
+                    job['apply-url'],
+                    JOBVITE_SOURCE_TYPE,
+                    JOBVITE_SOURCE_DETAIL,
+                    get_homepage_url(job),
+                    JOBVITE_SOURCE_DETAIL)
+    return(rendered)
 
 
 def render_readme(jobs):
@@ -102,7 +95,7 @@ def main():
             filename = sanitize_url(
                     job['title'], '-').strip('-').lower() + '.md'
             f = open(filename, 'w')
-            f.write(render_job_markdown(job_details))
+            f.write(render_job(job_details))
             f.close()
 
     f = open('README.md', 'w')
