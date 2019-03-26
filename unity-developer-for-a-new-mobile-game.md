@@ -4,8 +4,9 @@ As a __Unity&nbsp;Developer__, you will be part of our agile, cross-functional a
 
 &nbsp;
 
-__Your mission:  
-__*   Conception and development of mobile apps for our games, based on C\# and Unity3D
+__Your mission:__
+
+*   Conception and development of mobile apps for our games, based on C\# and Unity3D
 *   Continuous refinement and optimization of existing mobile apps
 *   Conception of APIs, tools, and workflows to optimize the interdisciplinary work
 *   Ensuring a high product quality, together with Quality Assurance
@@ -28,8 +29,7 @@ __Your profile:__
 
   
 
-__Why join us?  
- __
+__Why join us?__
 
 *   Shape the success story of InnoGames with a great team of driven experts in an international culture
 *   Competitive compensation and an atmosphere to empower creative thinking and strong results

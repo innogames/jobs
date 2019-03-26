@@ -24,8 +24,7 @@ __Your profile:&nbsp;__
 *   Real world experience with tools from the Hadoop ecosystem
 *   Passion for Data Science / Analytics / Big Data and related technologies
 *   Proficient in at least one scripting or programming language
-*   Open and friendly communication style and very good English skills__   
-    __
+*   Open and friendly communication style and very good English skills____
 
 __Why join us? __
 

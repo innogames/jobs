@@ -4,8 +4,9 @@ Our&nbsp;__Security&nbsp;Engineering&nbsp;__is&nbsp;responsible <span>for testin
 
 &nbsp;
 
-__Your mission:  
-__*   <span>Hack all the things!&nbsp;Perform internal security audits and penetration tests to discover new weaknesses, monitor security systems for potential incidents</span>
+__Your mission:__
+
+*   <span>Hack all the things!&nbsp;Perform internal security audits and penetration tests to discover new weaknesses, monitor security systems for potential incidents</span>
 *   <span>Maintain security standards, guidelines, and processes for our systems and infrastructure and c<span>oordinate external compliance requirements&nbsp;</span></span>
 *   <span>Develop technical solutions and new security tools to help mitigate security vulnerabilities and automate repeatable tasks, participate in the design and review of security concepts</span>
 *   <span>Support internal teams in security-related questions&nbsp;and make sure security requirements are well understood and followed by everyone in the company</span>
@@ -25,8 +26,7 @@ __Your profile:__
 
   
 
-__Why join us?  
- __
+__Why join us?__
 
 *   Shape the success story of InnoGames with a great team of driven experts in an international culture
 *   Competitive compensation and an atmosphere to empower creative thinking and strong results
