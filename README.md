@@ -9,7 +9,6 @@
 ### [Team Lead Software Development - Elvenar](team-lead-software-development-elvenar.md)
 ### [Unity Developer for a New Mobile Game](unity-developer-for-a-new-mobile-game.md)
 ### [QA Engineer for a New Mobile Game](qa-engineer-for-a-new-mobile-game.md)
-### [Data Engineer Base Technologies \(for DevOps\)](data-engineer-base-technologies-for-devops.md)
 ### [Junior Security Engineer](junior-security-engineer.md)
-### [Linux System Administrator / System Engineer \(Hadoop\)](linux-system-administrator-system-engineer-hadoop.md)
+### [Linux System Administrator / System Engineer](linux-system-administrator-system-engineer.md)
 ### [Senior Security Engineer](senior-security-engineer.md)
