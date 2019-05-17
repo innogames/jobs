@@ -12,7 +12,5 @@
 ### [Technical Director](technical-director.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
 ### [QA Engineer - New Mobile Game](qa-engineer-new-mobile-game.md)
-### [Junior Security Engineer](junior-security-engineer.md)
 ### [Junior Software Developer - System Administration and Community Management](junior-software-developer-system-administration-and-community-management.md)
 ### [Linux System Administrator / System Engineer](linux-system-administrator-system-engineer.md)
-### [Senior Security Engineer](senior-security-engineer.md)
