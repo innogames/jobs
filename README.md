@@ -2,7 +2,6 @@
 
 ### [Ausbildung Fachinformatiker/in Anwendungsentwicklung](ausbildung-fachinformatiker-in-anwendungsentwicklung.md)
 ### [Data Warehouse Engineer](data-warehouse-engineer.md)
-### [Frontend Developer \(Haxe\) - Elvenar](frontend-developer-haxe-elvenar.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2019](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2019.md)
 ### [Lead Backend Developer - Elvenar](lead-backend-developer-elvenar.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
