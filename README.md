@@ -14,6 +14,7 @@
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
 ### [QA Engineer - New Mobile Game](qa-engineer-new-mobile-game.md)
+### [Working Student Quality Assurance \(QA\) – Tester](working-student-quality-assurance-qa-–-tester.md)
 ### [Junior Software Developer - System Administration and Community Management](junior-software-developer-system-administration-and-community-management.md)
 ### [Linux System Administrator / System Engineer](linux-system-administrator-system-engineer.md)
 ### [Python Developer - System Administration](python-developer-system-administration.md)
