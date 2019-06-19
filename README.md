@@ -1,6 +1,5 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
-### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
 ### [Data Warehouse Engineer](data-warehouse-engineer.md)
 ### [Frontend Developer \(Haxe\) - Elvenar](frontend-developer-haxe-elvenar.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
