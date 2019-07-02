@@ -9,6 +9,7 @@
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Backend Team Lead - Elvenar](php-backend-team-lead-elvenar.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
+### [Senior Java Software Developer](senior-java-software-developer.md)
 ### [Senior Unity Software Developer - Warlords](senior-unity-software-developer-warlords.md)
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
