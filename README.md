@@ -4,6 +4,7 @@
 ### [Frontend Developer \(Haxe\) - Elvenar](frontend-developer-haxe-elvenar.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2019](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2019.md)
+### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2019](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2019.md)
 ### [Lead Backend Developer - Elvenar](lead-backend-developer-elvenar.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Backend Team Lead - Elvenar](php-backend-team-lead-elvenar.md)
