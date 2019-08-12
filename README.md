@@ -1,6 +1,5 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
-### [Data Warehouse Engineer](data-warehouse-engineer.md)
 ### [Frontend Developer \(Haxe\) - Elvenar](frontend-developer-haxe-elvenar.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2019](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2019.md)
