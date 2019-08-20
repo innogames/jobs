@@ -13,5 +13,4 @@
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
 ### [QA Engineer - New Mobile Game](qa-engineer-new-mobile-game.md)
-### [Linux System Administrator / System Engineer](linux-system-administrator-system-engineer.md)
 ### [Python Developer - System Administration](python-developer-system-administration.md)
