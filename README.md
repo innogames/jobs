@@ -1,6 +1,5 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
-### [Frontend Developer \(Haxe\) - Elvenar](frontend-developer-haxe-elvenar.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2019](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2019.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2019](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2019.md)
@@ -12,5 +11,4 @@
 ### [Senior Unity Software Developer - God Kings](senior-unity-software-developer-god-kings.md)
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
-### [QA Engineer - New Mobile Game](qa-engineer-new-mobile-game.md)
 ### [Python Developer - System Administration](python-developer-system-administration.md)
