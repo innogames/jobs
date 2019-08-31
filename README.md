@@ -1,9 +1,7 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
 ### [Head of Software Engineering](head-of-software-engineering.md)
-### [Lead Backend Developer - Elvenar](lead-backend-developer-elvenar.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
-### [PHP Backend Team Lead - Elvenar](php-backend-team-lead-elvenar.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
 ### [Senior Unity Software Developer - God Kings](senior-unity-software-developer-god-kings.md)
