@@ -1,6 +1,7 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
+### [Full-Stack Software Engineer](full-stack-software-engineer.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
