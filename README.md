@@ -6,6 +6,7 @@
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
+### [Senior Java Software Developer - New Mobile Game](senior-java-software-developer-new-mobile-game.md)
 ### [Senior Unity Software Developer - God Kings](senior-unity-software-developer-god-kings.md)
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
