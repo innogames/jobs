@@ -11,4 +11,5 @@
 ### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
 ### [Unity Game Developer - Warlords of Aternum](unity-game-developer-warlords-of-aternum.md)
+### [Unity Software Developer - Core](unity-software-developer-core.md)
 ### [Python Developer - System Administration](python-developer-system-administration.md)
