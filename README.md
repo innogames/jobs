@@ -3,6 +3,7 @@
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
 ### [Full-Stack Software Engineer](full-stack-software-engineer.md)
 ### [Head of Software Engineering](head-of-software-engineering.md)
+### [Java Software Developer - New Mobile Game](java-software-developer-new-mobile-game.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
