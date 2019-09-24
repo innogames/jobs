@@ -2,7 +2,6 @@
 
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
 ### [Full-Stack Software Engineer](full-stack-software-engineer.md)
-### [Head of Software Engineering](head-of-software-engineering.md)
 ### [Java Software Developer - New Mobile Game](java-software-developer-new-mobile-game.md)
 ### [Mobile Software Engineer](mobile-software-engineer.md)
 ### [PHP Developer - Tribal Wars](php-developer-tribal-wars.md)
@@ -10,7 +9,6 @@
 ### [Senior Java Software Developer](senior-java-software-developer.md)
 ### [Senior Java Software Developer - New Mobile Game](senior-java-software-developer-new-mobile-game.md)
 ### [Senior Unity Software Developer - God Kings](senior-unity-software-developer-god-kings.md)
-### [Technical Lead](technical-lead.md)
 ### [Unity Developer - New Mobile Game](unity-developer-new-mobile-game.md)
 ### [Unity Game Developer - Warlords of Aternum](unity-game-developer-warlords-of-aternum.md)
 ### [Unity Software Developer - Core](unity-software-developer-core.md)
