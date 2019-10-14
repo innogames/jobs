@@ -6,6 +6,5 @@
 ### [PHP Developer - Tribal Wars](php-developer-tribal-wars.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
-### [Senior Java Software Developer - New Mobile Game](senior-java-software-developer-new-mobile-game.md)
 ### [IT System Administrator](it-system-administrator.md)
 ### [Python Developer - System Administration](python-developer-system-administration.md)
