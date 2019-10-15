@@ -2,7 +2,6 @@
 
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
 ### [Full-Stack Software Engineer](full-stack-software-engineer.md)
-### [Java Software Developer - New Mobile Game](java-software-developer-new-mobile-game.md)
 ### [PHP Developer - Tribal Wars](php-developer-tribal-wars.md)
 ### [PHP Game Developer - Elvenar](php-game-developer-elvenar.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
