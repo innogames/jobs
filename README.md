@@ -5,4 +5,3 @@
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
 ### [IT System Administrator](it-system-administrator.md)
-### [Python Developer - System Administration](python-developer-system-administration.md)
