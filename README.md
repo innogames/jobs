@@ -4,5 +4,4 @@
 ### [PHP Developer - Tribal Wars](php-developer-tribal-wars.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior Java Software Developer](senior-java-software-developer.md)
-### [IT System Administrator](it-system-administrator.md)
 ### [Team Lead IT](team-lead-it.md)
