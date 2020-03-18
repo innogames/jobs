@@ -5,5 +5,4 @@
 ### [Frontend Developer - Corporate Systems: Marketing](frontend-developer-corporate-systems:-marketing.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2020](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2020.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2020](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2020.md)
-### [PHP Game Developer - Grepolis](php-game-developer-grepolis.md)
 ### [Linux System Administrator \(Network and Infrastructure\)](linux-system-administrator-network-and-infrastructure.md)
