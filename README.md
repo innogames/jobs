@@ -2,7 +2,7 @@
 
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
 ### [Ausbildung Fachinformatiker Anwendungsentwicklung \(m/w/d\)](ausbildung-fachinformatiker-anwendungsentwicklung-m-w-d.md)
-### [Frontend Developer - Corporate Systems: Marketing](frontend-developer-corporate-systems:-marketing.md)
+### [Frontend Developer - Corporate Systems: Marketing](frontend-developer-corporate-systems-marketing.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2020](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2020.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2020](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2020.md)
 ### [\(Senior\) Security Engineer](senior-security-engineer.md)
