@@ -35,7 +35,7 @@ def get_job_details(job_id):
 
 
 def sanitize_url(input_str, dedup_char, offset=0, out=''):
-    for i in [' ', '[', ']', '(', ')', '/', '\\', '?', '*']:
+    for i in [' ', '[', ']', '(', ')', '/', '\\', '?', '*', ':']:
         input_str = input_str.replace(i, '-')
 
     for c in input_str:
