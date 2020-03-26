@@ -4,6 +4,7 @@ import requests
 import xmltodict
 
 COMPANY_ID = 'qyy9VfwU'
+COMPANY_NAME = 'InnoGames'
 JOBVITE_XML = 'https://app.jobvite.com/CompanyJobs/Xml.aspx?c={}&cf=e'.format(
         COMPANY_ID)
 CATEGORIES = ['Development',
@@ -16,6 +17,8 @@ JOBVITE_SOURCE_TYPE = 'Job+Board'
 JOBVITE_SOURCE_DETAIL = 'github_jobs_repo'
 HOMEPAGE_BASE = 'https://www.innogames.com/career/detail/job'
 JOBVITE_DIRECT = 'https://jobs.jobvite.com/careers/innogames/job/'
+TEASER_TEXT='# Open Positions @ [InnoGames]({}?s={})\n\n'.format(
+            HOMEPAGE_BASE, JOBVITE_SOURCE_DETAIL)
 
 def get_listings():
     r = requests.get(JOBVITE_XML)
@@ -57,20 +60,19 @@ def render_job(job):
     rendered = '<h1>{}</h1>\n'.format(job['title'])
     rendered += job['description']
     rendered += '\n\n<h2><a href="{}/{}/apply?__jvst={}&__jvsd={}">Apply Now</a> ' \
-        'directly or get more <a href="{}?s={}">Information</a> about ' \
-        'InnoGames</h2>'.format(
+        'directly or get more <a href="{}?s={}">Information</a> about {}</h2>'.format(
                     JOBVITE_DIRECT,
                     job['id'],
                     JOBVITE_SOURCE_TYPE,
                     JOBVITE_SOURCE_DETAIL,
                     get_homepage_url(job),
-                    JOBVITE_SOURCE_DETAIL)
+                    JOBVITE_SOURCE_DETAIL,
+                    COMPANY_NAME)
     return(rendered)
 
 
 def render_readme(jobs):
-    markdown = '# Open Positions @ [InnoGames]({}?s={})\n\n'.format(
-            HOMEPAGE_BASE, JOBVITE_SOURCE_DETAIL)
+    markdown = TEASER_TEXT
     for job in jobs['result']['job']:
         if job['subcategory'] in CUSTOM_SUB_CATEGORIES_ALL or (
                 job['subcategory'] in CUSTOM_SUB_CATEGORIES_CAT_ONLY and
