@@ -6,4 +6,3 @@
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2020](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2020.md)
 ### [PHP Developer & DevOps Engineer - Elvenar](php-developer-&-devops-engineer-elvenar.md)
 ### [Linux System Administrator \(Network and Infrastructure\)](linux-system-administrator-network-and-infrastructure.md)
-### [Security Engineer \(special opportunity for Software Developers/Linux Admins\)](security-engineer-special-opportunity-for-software-developers-linux-admins.md)
