@@ -16,7 +16,7 @@ CUSTOM_SUB_CATEGORIES_CAT_ONLY = ['Career Starters']
 JOBVITE_SOURCE_TYPE = 'Job+Board'
 JOBVITE_SOURCE_DETAIL = 'github_jobs_repo'
 HOMEPAGE_BASE = 'https://www.innogames.com/career/detail/job'
-JOBVITE_DIRECT = 'https://jobs.jobvite.com/careers/innogames/job/'
+JOBVITE_DIRECT = 'https://jobs.jobvite.com/careers/innogames/job'
 TEASER_TEXT='# Open Positions @ [InnoGames]({}?s={})\n\n'.format(
             HOMEPAGE_BASE, JOBVITE_SOURCE_DETAIL)
 
