@@ -7,4 +7,3 @@
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2021](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2021.md)
 ### [Java Software Developer](java-software-developer.md)
 ### [Java Software Developer - Core Team](java-software-developer-core-team.md)
-### [Linux System Administrator \(Network and Infrastructure\)](linux-system-administrator-network-and-infrastructure.md)
