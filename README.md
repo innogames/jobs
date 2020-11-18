@@ -7,4 +7,5 @@
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2021](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2021.md)
 ### [Java Software Developer - Core Team](java-software-developer-core-team.md)
 ### [Mobile Software Developer \(C++\) - Video Game: Forge of Empires](mobile-software-developer-c++-video-game-forge-of-empires.md)
+### [QA Engineer \(Quality Assistance / Quality Assurance\) - NEW Mobile Game Project](qa-engineer-quality-assistance-quality-assurance-new-mobile-game-project.md)
 ### [Ausbildung zum Fachinformatiker Systemintegration \(m/w/d\)](ausbildung-zum-fachinformatiker-systemintegration-m-w-d.md)
