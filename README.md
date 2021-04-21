@@ -9,4 +9,5 @@
 ### [Senior PHP Software Developer - Payment Systems](senior-php-software-developer-payment-systems.md)
 ### [Software Engineer / Data Engineer for Big Data Platform](software-engineer-data-engineer-for-big-data-platform.md)
 ### [Team Lead Software Engineering - Gaming](team-lead-software-engineering-gaming.md)
+### [Working Student QA \(Quality Assistance\) - New F2P Mobile Game](working-student-qa-quality-assistance-new-f2p-mobile-game.md)
 ### [Junior Linux System Administrator \(m/w/d\)](junior-linux-system-administrator-m-w-d.md)
