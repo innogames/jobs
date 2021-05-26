@@ -10,5 +10,6 @@
 ### [Senior PHP Developer](senior-php-developer.md)
 ### [Software Engineer / Data Engineer for Big Data Platform](software-engineer-data-engineer-for-big-data-platform.md)
 ### [Team Lead Software Engineering - Gaming](team-lead-software-engineering-gaming.md)
+### [Technical Product Lead - New Mobile Game](technical-product-lead-new-mobile-game.md)
 ### [Junior Linux System Administrator](junior-linux-system-administrator.md)
 ### [Junior Linux System Administrator \(m/w/d\)](junior-linux-system-administrator-m-w-d.md)
