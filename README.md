@@ -2,6 +2,7 @@
 
 ### [\(Experienced\) Haxe Developer – Video Game: Forge of Empires – InnoGames](experienced-haxe-developer-–-video-game-forge-of-empires-–-innogames.md)
 ### [Ausbildung zum Fachinformatiker Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-zum-fachinformatiker-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
+### [Data Warehouse Engineer](data-warehouse-engineer.md)
 ### [PHP Game Developer - Grepolis](php-game-developer-grepolis.md)
 ### [Senior Mobile Game Developer - Unity - New F2P Mobile Game - InnoGames](senior-mobile-game-developer-unity-new-f2p-mobile-game-innogames.md)
 ### [Senior PHP Developer](senior-php-developer.md)
