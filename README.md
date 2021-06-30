@@ -1,6 +1,5 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
-### [Ausbildung zum Fachinformatiker Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-zum-fachinformatiker-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
 ### [Data Warehouse Engineer](data-warehouse-engineer.md)
 ### [Senior Mobile Game Developer - Unity - New F2P Mobile Game - InnoGames](senior-mobile-game-developer-unity-new-f2p-mobile-game-innogames.md)
 ### [Senior PHP Developer](senior-php-developer.md)
