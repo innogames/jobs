@@ -7,4 +7,4 @@
 ### [Team Lead Unity/C# - New Mobile Game](team-lead-unity-c#-new-mobile-game.md)
 ### [Technical Lead for Game Development - Unity/C#](technical-lead-for-game-development-unity-c#.md)
 ### [Junior Linux System Administrator](junior-linux-system-administrator.md)
-### [Junior Linux System Administrator \(m/w/d\)](junior-linux-system-administrator-m-w-d.md)
+### [Junior Linux Systemadministrator*in](junior-linux-systemadministrator-in.md)
