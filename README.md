@@ -4,6 +4,5 @@
 ### [Senior Mobile Game Developer - Unity - New F2P Mobile Game - InnoGames](senior-mobile-game-developer-unity-new-f2p-mobile-game-innogames.md)
 ### [Senior PHP Developer](senior-php-developer.md)
 ### [Team Lead Unity/C# - New Mobile Game](team-lead-unity-c#-new-mobile-game.md)
-### [Technical Lead for Game Development - Unity/C#](technical-lead-for-game-development-unity-c#.md)
 ### [Junior Linux System Administrator](junior-linux-system-administrator.md)
 ### [Junior Linux Systemadministrator*in](junior-linux-systemadministrator-in.md)
