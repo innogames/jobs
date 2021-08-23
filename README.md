@@ -1,7 +1,6 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-m-w-d.md)
-### [Data Warehouse Engineer](data-warehouse-engineer.md)
 ### [Full-Stack Software Engineer - Corporate Backend Systems](full-stack-software-engineer-corporate-backend-systems.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2022](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2022.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
