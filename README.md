@@ -7,5 +7,3 @@
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [Senior PHP Developer](senior-php-developer.md)
 ### [Team Lead / Lead Developer - New F2P Mobile Game \(Unity\)](team-lead-lead-developer-new-f2p-mobile-game-unity.md)
-### [Junior Linux System Administrator](junior-linux-system-administrator.md)
-### [Junior Linux Systemadministrator*in](junior-linux-systemadministrator-in.md)
