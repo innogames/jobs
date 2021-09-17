@@ -5,5 +5,6 @@
 ### [Head of Engineering - New Game Project \(Unity\)](head-of-engineering-new-game-project-unity.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2022](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2022.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
+### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior PHP Developer](senior-php-developer.md)
 ### [Team Lead / Lead Developer - New F2P Mobile Game \(Unity\)](team-lead-lead-developer-new-f2p-mobile-game-unity.md)
