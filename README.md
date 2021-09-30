@@ -1,5 +1,6 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
+### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-m-w-d.md)
 ### [Full-Stack Software Engineer - Corporate Backend Systems](full-stack-software-engineer-corporate-backend-systems.md)
 ### [Head of Engineering - New Game Project \(Unity\)](head-of-engineering-new-game-project-unity.md)
