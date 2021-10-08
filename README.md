@@ -2,11 +2,11 @@
 
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-m-w-d.md)
+### [Expert / Senior Unity Game Developer - New Mobile Game \(unannounced project\)](expert-senior-unity-game-developer-new-mobile-game-unannounced-project.md)
 ### [Full-Stack Software Engineer - Corporate Backend Systems](full-stack-software-engineer-corporate-backend-systems.md)
-### [Head of Engineering - New Game Project \(Unity\)](head-of-engineering-new-game-project-unity.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2022](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2022.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior PHP Developer](senior-php-developer.md)
-### [Team Lead / Lead Developer - New F2P Mobile Game \(Unity\)](team-lead-lead-developer-new-f2p-mobile-game-unity.md)
+### [Team Lead - Unity - Mobile Game Development - Lost Survivors](team-lead-unity-mobile-game-development-lost-survivors.md)
 ### [IT System Administrator](it-system-administrator.md)
