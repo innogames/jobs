@@ -9,4 +9,3 @@
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior PHP Developer](senior-php-developer.md)
 ### [Team Lead - Unity - Mobile Game Development - Lost Survivors](team-lead-unity-mobile-game-development-lost-survivors.md)
-### [IT System Administrator](it-system-administrator.md)
