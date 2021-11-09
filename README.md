@@ -1,7 +1,7 @@
 # Open Positions @ [InnoGames](https://www.innogames.com/career/detail/job?s=github_jobs_repo)
 
-### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Qualitätssicherung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-qualitätssicherung-m-w-d.md)
-### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung \(m/w/d\)](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-m-w-d.md)
+### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung.md)
+### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Qualitätssicherung](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-qualitätssicherung.md)
 ### [Expert / Senior Unity Game Developer - New Mobile Game \(unannounced project\)](expert-senior-unity-game-developer-new-mobile-game-unannounced-project.md)
 ### [Full-Stack Software Engineer - Corporate Backend Systems](full-stack-software-engineer-corporate-backend-systems.md)
 ### [InnoBachelor Software Development \(berufsbegleitendes Bachelorstudium\) - WiSe 2022](innobachelor-software-development-berufsbegleitendes-bachelorstudium-wise-2022.md)
