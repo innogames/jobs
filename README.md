@@ -7,7 +7,6 @@
 ### [InnoMaster Data Engineering \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-data-engineering-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [Java Game Developer - Lost Survivors](java-game-developer-lost-survivors.md)
-### [Java Software Engineer](java-software-engineer.md)
 ### [Mobile Game Developer - Unity - Lost Survivors](mobile-game-developer-unity-lost-survivors.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior Mobile Software Engineer - Unity/iOS/Android - Core Team](senior-mobile-software-engineer-unity-ios-android-core-team.md)
