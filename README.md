@@ -8,7 +8,6 @@
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [Java Game Developer - Lost Survivors](java-game-developer-lost-survivors.md)
 ### [Mobile Game Developer - Unity - Lost Survivors](mobile-game-developer-unity-lost-survivors.md)
-### [Mobile Game Developer - Unity - Rise of Cultures](mobile-game-developer-unity-rise-of-cultures.md)
 ### [Mobile Game Developer - Unity - Sunrise Village](mobile-game-developer-unity-sunrise-village.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Senior Mobile Software Engineer - Unity/iOS/Android - Core Team](senior-mobile-software-engineer-unity-ios-android-core-team.md)
