@@ -2,12 +2,12 @@
 
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung.md)
 ### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Data Engineering](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-data-engineering.md)
-### [Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung - Schwerpunkt Qualitätssicherung](ausbildung-zum-r-fachinformatiker-in-anwendungsentwicklung-schwerpunkt-qualitätssicherung.md)
 ### [InnoMaster Data Engineering \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-data-engineering-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [InnoMaster Software Development \(berufsbegleitendes Masterstudium\) - WiSe 2022](innomaster-software-development-berufsbegleitendes-masterstudium-wise-2022.md)
 ### [Java Game Developer - Lost Survivors](java-game-developer-lost-survivors.md)
 ### [Mobile Game Developer - Unity - Rise of Cultures](mobile-game-developer-unity-rise-of-cultures.md)
 ### [Mobile Game Developer - Unity - Sunrise Village](mobile-game-developer-unity-sunrise-village.md)
+### [Mobile Software Engineer iOS - Core Team](mobile-software-engineer-ios-core-team.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
 ### [Software Developer - PHP - Game: Grepolis](software-developer-php-game-grepolis.md)
 ### [Unity Software Engineer - Core Team](unity-software-engineer-core-team.md)
