@@ -9,7 +9,6 @@
 ### [Mobile Game Developer - Unity - Sunrise Village](mobile-game-developer-unity-sunrise-village.md)
 ### [Mobile Software Engineer iOS - Core Team](mobile-software-engineer-ios-core-team.md)
 ### [Senior Java Engineer](senior-java-engineer.md)
-### [Software Developer - PHP - Game: Grepolis](software-developer-php-game-grepolis.md)
 ### [Unity Software Engineer - Core Team](unity-software-engineer-core-team.md)
 ### [IT Administrator - Office IT](it-administrator-office-it.md)
 ### [QA Engineer \(Quality Assistance\) - Lost Survivors](qa-engineer-quality-assistance-lost-survivors.md)
