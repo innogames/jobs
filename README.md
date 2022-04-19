@@ -12,6 +12,5 @@
 ### [Unity Software Engineer - Core Team](unity-software-engineer-core-team.md)
 ### [IT Administrator - Office IT](it-administrator-office-it.md)
 ### [QA Engineer \(Quality Assistance\) - Lost Survivors](qa-engineer-quality-assistance-lost-survivors.md)
-### [QA Engineer \(Quality Assistance\) - Rise of Cultures](qa-engineer-quality-assistance-rise-of-cultures.md)
 ### [ClickHouse Administrator](clickhouse-administrator.md)
 ### [Linux System Administrator](linux-system-administrator.md)
