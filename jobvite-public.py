@@ -21,17 +21,9 @@ TEASER_TEXT='# Open Positions @ [InnoGames]({}?s={})\n\n'.format(
             HOMEPAGE_BASE, JOBVITE_SOURCE_DETAIL)
 
 def get_listings():
-    r = requests.get(JOBVITE_XML)
+    r = requests.get(JOBVITE_XML, stream=True)
     jobs = xmltodict.parse(r.text)
-
     return(dict(jobs))
-
-
-def get_job_details(job_id):
-    r = requests.get(JOBVITE_XML + '&j=' + job_id)
-    job_details = xmltodict.parse(r.text)
-
-    return(dict(job_details['result']))
 
 
 def sanitize_url(input_str, dedup_char, offset=0, out=''):
@@ -93,12 +85,11 @@ def main():
         if job['subcategory'] in CUSTOM_SUB_CATEGORIES_ALL or (
                 job['subcategory'] in CUSTOM_SUB_CATEGORIES_CAT_ONLY and
                 job['category'] in CATEGORIES):
-            job_details = get_job_details(job['id'])
 
             filename = sanitize_url(
                     job['title'], '-').strip('-').lower() + '.md'
             f = open(filename, 'w')
-            f.write(render_job(job_details))
+            f.write(render_job(job))
             f.close()
 
     f = open('README.md', 'w')
