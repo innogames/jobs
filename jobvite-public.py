@@ -10,7 +10,8 @@ JOBVITE_XML = 'https://app.jobvite.com/CompanyJobs/Xml.aspx?c={}&cf=e'.format(
 CATEGORIES = ['Development',
               'Quality Assurance',
               'System Administration',
-              'Office IT']
+              'Office IT',
+              'Analytics']
 CUSTOM_SUB_CATEGORIES_ALL = ['Development & IT']
 CUSTOM_SUB_CATEGORIES_CAT_ONLY = ['Career Starters']
 JOBVITE_SOURCE_TYPE = 'Job+Board'
