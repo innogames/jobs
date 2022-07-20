@@ -68,6 +68,7 @@ def render_readme(jobs):
     markdown = TEASER_TEXT
     for job in jobs['result']['job']:
         if job['subcategory'] in CUSTOM_SUB_CATEGORIES_ALL or (
+                job['category'] in CATEGORIES_ALL ) or (
                 job['subcategory'] in CUSTOM_SUB_CATEGORIES_CAT_ONLY and
                 job['category'] in CATEGORIES):
             filename = sanitize_url(
@@ -87,7 +88,6 @@ def main():
                 job['category'] in CATEGORIES_ALL ) or (
                 job['subcategory'] in CUSTOM_SUB_CATEGORIES_CAT_ONLY and
                 job['category'] in CATEGORIES):
-
             filename = sanitize_url(
                     job['title'], '-').strip('-').lower() + '.md'
             f = open(filename, 'w')
