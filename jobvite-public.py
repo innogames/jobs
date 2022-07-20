@@ -10,8 +10,8 @@ JOBVITE_XML = 'https://app.jobvite.com/CompanyJobs/Xml.aspx?c={}&cf=e'.format(
 CATEGORIES = ['Development',
               'Quality Assurance',
               'System Administration',
-              'Office IT',
-              'Analytics']
+              'Office IT']
+CATEGORIES_ALL = ['Analytics']
 CUSTOM_SUB_CATEGORIES_ALL = ['Development & IT']
 CUSTOM_SUB_CATEGORIES_CAT_ONLY = ['Career Starters']
 JOBVITE_SOURCE_TYPE = 'Job+Board'
@@ -84,6 +84,7 @@ def main():
 
     for job in jobs['result']['job']:
         if job['subcategory'] in CUSTOM_SUB_CATEGORIES_ALL or (
+                job['category'] in CATEGORIES_ALL ) or (
                 job['subcategory'] in CUSTOM_SUB_CATEGORIES_CAT_ONLY and
                 job['category'] in CATEGORIES):
 
