@@ -2,5 +2,3 @@
 
 ### [Data Scientist](data-scientist.md)
 ### [Java Software Developer - Rise of Cultures](java-software-developer-rise-of-cultures.md)
-### [ClickHouse Administrator](clickhouse-administrator.md)
-### [Linux System Administrator](linux-system-administrator.md)
