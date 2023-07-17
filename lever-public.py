@@ -4,7 +4,6 @@ import requests
 import json
 
 COMPANY_ID = 'innogames'
-COMPANY_ID = 'leverdemo'
 COMPANY_NAME = 'InnoGames'
 LEVER_JSON = 'https://api.eu.lever.co/v0/postings/{}?mode=json'.format(
         COMPANY_ID)
@@ -19,8 +18,7 @@ TEAMS = [
 
 LEVER_SOURCE_TYPE = 'Job+Board'
 LEVER_SOURCE_DETAIL = 'github_jobs_repo'
-HOMEPAGE_BASE = 'https://www.innogames.com/career/detail/job'
-LEVER_DIRECT = 'https://jobs.jobvite.com/careers/innogames/job'
+HOMEPAGE_BASE = 'https://www.innogames.com/career'
 TEASER_TEXT='# Open Positions @ [InnoGames]({}?s={})\n\n'.format(
             HOMEPAGE_BASE, LEVER_SOURCE_DETAIL)
 
@@ -80,9 +78,6 @@ def main():
     jobs = get_listings()
 
     for job in jobs:
-        print('\n\n')
-        print(job)
-        print('\n\n')
         if 'team' in job['categories'] and job['categories']['team'] in TEAMS:
             filename = sanitize_url(
                     job['text'], '-').strip('-').lower() + '.md'
