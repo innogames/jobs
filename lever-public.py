@@ -8,12 +8,23 @@ COMPANY_NAME = 'InnoGames'
 LEVER_JSON = 'https://api.eu.lever.co/v0/postings/{}?mode=json'.format(
         COMPANY_ID)
 TEAMS = [
-    'Development',
-    'Quality Assurance',
-    'System Administration',
-    'Office IT',
     'Analytics',
-    'Data Science'
+    'Art', 
+    'Community Management',
+    'CRM',
+    'Finance',
+    'Game Design',
+    'Human Resources',
+    'Legal',
+    'Management',
+    'Marketing',
+    'Office IT',
+    'Office Management',
+    'Product Management',
+    'Public Relations',
+    'Quality Assurance',
+    'Software Development',
+    'System Administration',
 ]
 
 LEVER_SOURCE_TYPE = 'Job+Board'
