@@ -25,6 +25,7 @@ TEAMS = [
     'Quality Assurance',
     'Software Development',
     'System Administration',
+    'Career Starters",
 ]
 
 LEVER_SOURCE_TYPE = 'Job+Board'
