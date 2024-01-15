@@ -1,0 +1,7 @@
+<h1>Ausbildung zum*r Fachinformatiker*in Anwendungsentwicklung in der Spieleentwicklung</h1>
+Programmieren ist Deine Leidenschaft, die Du zu Deinem Beruf machen möchtest? Du willst hautnah bei der Spieleentwicklung dabei sein? Lerne bei uns verschiedene Programmiersprachen, Tools und Teams in einem spannenden und abwechslungsreichen Umfeld kennen und verbessere stetig Deine Fähigkeiten. Im Rahmen der Ausbildung erlernst Du das Handwerkszeug für Deine professionelle Zukunft im Bereich Software Development. Du wirst während der Ausbildung in verschiedenen Entwicklungsteams arbeiten und dabei aktuelle Technologien und agile Arbeitsweisen erlernen und das Spielerlebnis von Millionen von Spielenden positiv beeinflussen. Werde mit uns zum Profi für Java, PHP, C# und Unity.
+
+Haben wir Dein Interesse geweckt? Bewirb Dich jetzt für den Ausbildungsbeginn im August 2024. Wir bieten Dir aktive Unterstützung durch ein engagiertes Team sowie modernste Arbeitsbedingungen in einem von Deutschlands erfolgreichsten Entwickler und Publisher von Online Games. Nach erfolgreich abgeschlossener Ausbildung würden wir Dich gern übernehmen.
+
+
+<h2><a href="https://jobs.eu.lever.co/innogames/234dab94-027b-45a4-86e2-d9973583975a/apply">Apply Now</a> directly or get more <a href="https://jobs.eu.lever.co/innogames/234dab94-027b-45a4-86e2-d9973583975a">Information</a> about InnoGames</h2>
