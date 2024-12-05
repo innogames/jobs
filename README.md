@@ -4,3 +4,4 @@
 ### [Game Designer - Forge of Empires](game-designer-forge-of-empires.md)
 ### [InnoMaster Softwareentwicklung \(berufsbegleitendes Masterstudium\) - WiSe25](innomaster-softwareentwicklung-berufsbegleitendes-masterstudium-wise25.md)
 ### [Senior VFX Artist - Heroes of History \(New Mobile Game\)](senior-vfx-artist-heroes-of-history-new-mobile-game.md)
+### [Working Student - CRM](working-student-crm.md)
