@@ -1,5 +1,0 @@
-<h1>AI Video Artist - Marketing</h1>
-Join us at InnoGames, where great games deserve great creatives. We are looking for an AI Video Artist who lives at the intersection of craft and AI innovation. As part of our Marketing & Corporate Design team, you will generate premium marketing content at scale while maintaining the quality bar of a skilled artist. You won't just use AI tools—you will build the systems, prompt libraries, and workflows that define the future of our visual output. Step in as the engine connecting cutting-edge AI with our creative pipeline, and help the whole team produce high-impact assets at a pace traditional production can't match.
-
-
-<h2><a href="https://jobs.eu.lever.co/innogames/1d59a24a-28c9-410d-818c-bc10e8945044/apply">Apply Now</a> directly or get more <a href="https://jobs.eu.lever.co/innogames/1d59a24a-28c9-410d-818c-bc10e8945044">Information</a> about InnoGames</h2>
