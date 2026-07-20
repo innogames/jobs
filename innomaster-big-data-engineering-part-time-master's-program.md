@@ -1,5 +1,5 @@
 <h1>InnoMaster Big Data Engineering - part-time Master's Program</h1>
-Part-time Master's Program starting Sept/Oct 2026
+Part-time Master's Program starting Oct 2026 or April 2027
  
 Do you have a passion for Big Data? Do you want to make your Master studies exciting and practical? Do you wish to continue studying after your Bachelor's degree while simultaneously stepping into the professional world? And all this with a fixed monthly salary and complete coverage of tuition fees? Then, our InnoMaster Program is just right for you!
  
