@@ -5,3 +5,4 @@
 ### [Game Analyst for Forge of Empires](game-analyst-for-forge-of-empires.md)
 ### [InnoMaster Big Data Engineering - part-time Master's Program](innomaster-big-data-engineering-part-time-master's-program.md)
 ### [InnoMaster Softwareentwicklung \(berufsbegleitendes Masterstudium\) - WiSe27](innomaster-softwareentwicklung-berufsbegleitendes-masterstudium-wise27.md)
+### [Senior VFX Artist - New Mobile Game](senior-vfx-artist-new-mobile-game.md)
